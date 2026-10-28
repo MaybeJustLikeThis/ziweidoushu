@@ -1,3 +1,9 @@
+> **二开说明（upstream）**
+>
+> 本仓库是基于 [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 的二次开发分支。当前基线为上游 `main` 提交 [`1059c347231c636bd86ddb78fd8ed430d5de8d2a`](https://github.com/Renhuai123/ziwei-doushu/commit/1059c347231c636bd86ddb78fd8ed430d5de8d2a)（`1059c34`，2026-10-20）。仓库保留 [`LICENSE`](./LICENSE)（代码 MIT）、[`DATASET-LICENSE`](./DATASET-LICENSE) 与原有署名要求不变。
+>
+> [`docs/tianji-ziwei/`](./docs/tianji-ziwei/) 内的倪师原话采用 **CC BY-NC-SA 4.0**（仅限非商业性使用——相同方式共享），**不得商业使用**，详参 [`docs/tianji-ziwei/LICENSE.md`](./docs/tianji-ziwei/LICENSE.md)。代码可用的是 MIT，数据集是 CC BY 4.0。
+
 <div align="center">
 
 # 紫微斗数 · 开源排盘引擎
